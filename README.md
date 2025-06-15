@@ -94,20 +94,6 @@ The chart above displays top countries by total medal count, helping identify hi
 
 ---
 
-## 📁 Folder Structure
-
-```
-📦tokyo-olympic-azure-data-engineering-project
- ┣ 📁data/                     # Raw and sample data files
- ┣ 📁notebooks/                # Databricks notebooks (PySpark)
- ┣ 📁dashboards/               # Power BI or Tableau dashboard files
- ┣ 📄README.md
- ┣ 📄requirements.txt
- ┣ 📄Tokyo Olympic Transformation.ipynb
-```
-
----
-
 ## 🙌 Acknowledgements
 
 Special thanks to publicly available Tokyo Olympics datasets and Microsoft Azure services for making this project possible.
