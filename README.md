@@ -24,7 +24,7 @@ To design and implement a scalable Azure-based data engineering solution that:
 - **Storage**: Raw and transformed data are organized in separate zones within Data Lake Gen2.
 - **Transformation**: Azure Databricks cleanses, flattens, and enriches the data using PySpark notebooks.
 - **Analytics**: Transformed data is served to Azure Synapse Analytics for querying and BI modeling.
-- **Visualization**: Dashboards are built using Power BI, Looker Studio, and Tableau.
+- **Visualization**: Dashboards are built using Power BI.
 
 ---
 
