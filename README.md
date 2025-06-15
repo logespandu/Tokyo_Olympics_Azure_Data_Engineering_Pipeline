@@ -71,7 +71,7 @@ The chart above displays top countries by total medal count, helping identify hi
 | Storage       | Azure Data Lake Gen2                             |
 | Transformation| Azure Databricks, PySpark                        |
 | Analytics     | Azure Synapse Analytics                          |
-| Visualization | Power BI, Tableau, Looker Studio                 |
+| Visualization | Power BI                                         |
 | Languages     | Python, SQL, PySpark                             |
 
 ---
@@ -112,8 +112,3 @@ The chart above displays top countries by total medal count, helping identify hi
 
 Special thanks to publicly available Tokyo Olympics datasets and Microsoft Azure services for making this project possible.
 
----
-
-## 📬 Contact
-
-If you found this useful or want to collaborate, feel free to reach out on [LinkedIn](https://www.linkedin.com/) or raise an issue in this repo.
